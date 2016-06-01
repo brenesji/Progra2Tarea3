@@ -1,0 +1,6 @@
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\bin\Debug\Juego.exe.config
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\bin\Debug\Juego.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\bin\Debug\Juego.pdb
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\obj\Debug\Juego.csprojResolveAssemblyReference.cache
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\obj\Debug\Juego.exe
+c:\users\jbrenesjimene\documents\visual studio 2015\Projects\Juego\Juego\obj\Debug\Juego.pdb
